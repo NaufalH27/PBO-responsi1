@@ -193,5 +193,4 @@ public class FXMLController implements Initializable {
             checkFileStatus();
         });
     }
-
 }
